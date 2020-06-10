@@ -1,0 +1,497 @@
+    2  pwd
+    3  ls
+    4  ls-a
+    5  ls -a
+    6  clear
+    7  mkdir<Fullstack>
+    8  mkdir FULLSTACK
+    9  ls
+   10  cd desktop
+   11  cd fullstack dev
+   12  cd fullstackdev
+   13  cd FULLSTACK
+   14  mkdir fullstackdev
+   15  ls
+   16  ls
+   17  touch full_stack.txt
+   18  clear
+   19  mkdir fullstackdev
+   20  cd fullstackdev
+   21  touch full_stack.txt
+   22  echo "fullstack developer"fullstackdev
+   23  cat full_stack
+   24  cat fullstack developer
+   25  echo "fullstack developer"
+   26  cat fullstack developer
+   27  rm -d
+   28  rmdir fullstackdev
+   29  rmdir full_stack.txt
+   30  rmdir fullstack developer
+   31  clear
+   32  cd ..
+   33  cd..
+   34  cd 
+   35  clear
+   36  mkdir GIT
+   37  ls
+   38  GIT init
+   39  rm GIT
+   40  rmdir GIT
+   41  ls
+   42  rmdir FULLSTACK
+   43  LS
+   44  ls
+   45  clear
+   46  cd..
+   47  cd ..
+   48  cd ..
+   49  cd ..
+   50  cd ..
+   51  clear
+   52  pwd
+   53  ls
+   54  ls -a
+   55  cd desktop
+   56  rmdir /
+   57  rm /
+   58  rmdir /
+   59  rmdir '/'
+   60  clear
+   61  cd ~
+   62  cd..
+   63  cd ..
+   64  cd desktop
+   65  mkdir fullstack
+   66  touch full_stack.txt
+   67  ls
+   68  echo "fullstackdev"
+   69  cat fullstackdev
+   70  cat full_stack.txt
+   71  ls
+   72  nano full_stack
+   73  rmdir fullstack
+   74  rmdir full_stack.txt
+   75  rmdir FULLSTACK
+   76  ls
+   77  rm -f .ini
+   78  ls
+   79  git--version
+   80  git --version
+   81  pwd
+   82  ls
+   83  ls -a
+   84  clear
+   85  cd Desktop/
+   86  mkdir Fullstackdev
+   87  ls
+   88  cd Fullstackdev/
+   89  touch full_stack.txt
+   90  ls
+   91  cat full_stack.txt
+   92  echo <Full stack developer> full_stack.txt
+   93  echo <full stack developer> full_stack.txt
+   94  echo "Full stack developer">full_stack
+   95  cat full_stack.txt
+   96  ls 
+   97  rm full_stack
+   98  ls
+   99  echo "full stack developer">full_stack.txt
+  100  cat full_stack.txt
+  101  echo "HTML and CSS">>full_stack.txt
+  102  cat full_stack.txt
+  103  clear
+  104  nano full_stack.txt
+  105  cat full_stcak.txt
+  106  cat full_stack.txt
+  107  nano Data.txt
+  108  ls
+  109  rm data.txt
+  110  ls
+  111  clear
+  112  mkdir git
+  113  ls
+  114  git init
+  115  git status
+  116  git add full_stack.txt
+  117  git status
+  118  git commit -m "First commit"
+  119  git config global user.email 'likhitha.chowdary97@gmail.com'
+  120  git config global user.email 'vlikhitha05'
+  121  omit
+  122  only --global 'likhitha.chowdary97@gmail.com'
+  123  omit --global 'likhitha.chowdary97@gmail.com'
+  124  git --help
+  125  clearR
+  126  CLEAR
+  127  git config user.email
+  128  git global user.email
+  129  clear
+  130  git config --global user.email "likhitha.chowdary97@gmail.com"
+  131  git config user.email
+  132  exit
+  133  mkdir fullstack
+  134  cd Desktop/
+  135  mkdir fullstack
+  136  cd fullstack
+  137  git init
+  138  ls -a
+  139  git status
+  140  git add HTML\ Day\ 2/
+  141  git status
+  142  git commit -m "FIRST COMMIT"
+  143  git log
+  144  git remote add https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  145  git remote add H https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  146  git remote show
+  147  git remote -v
+  148  git pull fullstack master
+  149  git remote -help
+  150  git push -u fullstack
+  151  git push --set-upstream fullstack
+  152  git push --set-upstream fullstack master
+  153  git push --set-upstream fullstack master
+  154  git push -f --set-upstream fullstack master
+  155  git status
+  156  git remote <HTML Day2><HTML Day4>
+  157  git remote HTML Day2 HTML Day4
+  158  git remote rename HTML Day2 HTML Day4
+  159  git remote rename <HTML Day2>
+  160  git remote rename <HTML Day2> <HTML Day4>
+  161  git remote rename HTML\Day2HTML\Day4
+  162  git remote rename HTML\Day2 HTML\Day4
+  163  clear
+  164  git add HTML\Day3
+  165  git add HTML\ Day3
+  166  ls
+  167  cd desktop\
+  168  clear
+  169  cd fullstack
+  170  git add HTML\Day3
+  171  git add HTML\ Day\ 3
+  172  LS
+  173  git status
+  174  git add HTMLDay3
+  175  git status
+  176  git commit -m "HTMLday3"
+  177  git status
+  178  LS
+  179  mkdir fullstackdev
+  180  rm fullstackdev
+  181  rmdir fullstackdev
+  182  ls
+  183  cd desktop\
+  184  mkdir fullstackdev
+  185  ls
+  186  cd fullstackdev
+  187  ls
+  188  git status
+  189  clear
+  190  git status
+  191  git add day3assignment
+  192  git status
+  193  exit
+  194  cd eskt
+  195  cd Desktop/
+  196  cd fullstack
+  197  ls -a
+  198  cd ..
+  199  cd fullstackdev/
+  200  ls -a
+  201  git inti
+  202  git init
+  203  git status
+  204  git add Day3assignment/
+  205  git commit -m "first commit"
+  206  git remote add Day3assignment/ https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  207  git remote add Day3assignment https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  208  git remote -v
+  209  git remote show
+  210  git pull Day3assignment FULL-STACK-DEVELOPEMENT master
+  211  git pull Day3assignment FULL-STACK-DEVELOPMENT master
+  212  git pull Day3assignment FULL-STACK-DEVELOPMENT master
+  213  git pull FULL-STACK-DEVELOPMENT master
+  214  git config user.email
+  215  ls -a
+  216  git remote add Day3assignment https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  217  git remote show
+  218  git remote -v
+  219  git pull FULL-STACK-DEVELOPMEMT master
+  220  clear
+  221  git status
+  222  git log
+  223  git remote add Day3assignment https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  224  git remote -v
+  225  git pull FULL-STACK-DEVELOPMENT master
+  226  clear
+  227  git status
+  228  git add .
+  229  ls -a
+  230  mkdir FULL-STACK-DEVELOPMENT
+  231  ls 
+  232  git remote add FULL-STACK-DEVELOPMENT https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  233  git push -u FULL-STACK-DEVELOPMENT 
+  234  git pull FULL-STACK-DEVELOPMENT 
+  235  git pull FULL-STACK-DEVELOPMENT master
+  236  git push -u FULL-STACK-DEVELOPMENT/
+  237  git push --set-upstream FULL-STACK-DEVELOPMENT/ master
+  238  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  239  git push -f --set-upstream FULL-STACK-DEVELOPMENT master
+  240  history
+  241  history 240 > gitcommands.txt
+  242  history 240 > gitcommands.txt
+  243  ls -a
+  244  clear
+  245  git status
+  246  git init
+  247  git status
+  248  git add HTMLDay3
+  249  git commit -m "second commit"
+  250  git remote add HTMLDay3https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  251  git remote -v
+  252  git remote add HTMLDay3 https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git 
+  253  git remote -v
+  254  git remote show
+  255  git pull  FULL-STACK-DEVELOPMENT master
+  256  git push HTMLDay3
+  257  git push -u FULL-STACK-DEVELOPMENT/
+  258  git push -u FULL-STACK-DEVELOPMENT
+  259  git push -u FULL-STACK-DEVELOPMENT master
+  260  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  261  git push --set-upstream HTMLDay3
+  262  clear
+  263  ls -a
+  264  git add gitcommands.txt 
+  265  clear
+  266  git add commands.txt 
+  267  git commit -m "first commit"
+  268  git remote add commands.txt 
+  269  git remote add commands.txt https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  270  git remote show
+  271  git pull -u FULL-STACK-DEVELOPMENT master
+  272  git pull FULL-STACK-DEVELOPMENT master
+  273  git push -u FULL-STACK-DEVELOPMENT
+  274  git push -u FULL-STACK-DEVELOPMENT master
+  275  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  276  git push -f --set-upstream FULL-STACK-DEVELOPMENT master
+  277  clear
+  278  git status
+  279  ls -a
+  280  git add HTMLDay3
+  281  git commit -m "second commit"
+  282  git remote add HTMLDay3 https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  283  git pull FULL-STACK-DEVELOPMENT master
+  284  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  285  git push -u FULL-STACK-DEVELOPMENT master
+  286  git push -f --set-upstream FULL-STACK-DEVELOPMENT master
+  287  git status
+  288  git add HTMLDay3/
+  289  git commit -m "second commit"
+  290  git log
+  291  git push -u FULL-STACK-DEVELOPMENT 
+  292  git pull FULL-STACK-DEVELOPMENT master
+  293  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  294  git remote add HTMLDay3 https://github.com/likhitha25/FULL-STACK-DEVELOPMENT.git
+  295  git push -f --set-upstream FULL-STACK-DEVELOPMENT master
+  296  clear
+  297  git status
+  298  git add Day4assignment
+  299  git status
+  300  git commit -m "second commit"
+  301  git log
+  302  git push -u FULL-STACK-DEVELOPMENT 
+  303  git pull FULL-STACK-DEVELOPMENT master
+  304  git push -u FULL-STACK-DEVELOPMENT 
+  305  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  306  git status
+  307  git add Day5assignment/
+  308  git status
+  309  git commit -m "second commit"
+  310  git log
+  311  git status
+  312  git log
+  313  git add Day5assignment
+  314  git status
+  315  git commit -m "second commit"
+  316  git push -u FULL-STACK-DEVELOPMENT 
+  317  git log
+  318  git add Day5assignment
+  319  git status
+  320  git commit -m "29-05-2020"
+  321  git push -u FULL-STACK-DEVELOPMENT 
+  322  git pull FULL-STACK-DEVELOPMENT master
+  323  git push -u FULL-STACK-DEVELOPMENT 
+  324  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  325  clear
+  326  git status
+  327  git add classproject/
+  328  git status
+  329  git commit -m "04-06-2020"
+  330  git log
+  331  git status
+  332  git pull FULL-STACK-DEVELOPMENT master
+  333  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  334  git status
+  335  git add project(04-06-2020)/
+  336  git status
+  337  git status
+  338  git add Day7assignment/
+  339  git status
+  340  git commit "02-06-2020"
+  341  git commit -m "02-06-2020"
+  342  git pull FULL-STACK-DEVELOPMENT master
+  343  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  344  clear
+  345  git status
+  346  git pull FULL-STACK-DEVELOPMENT master
+  347  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  348  git add HTMLDay3/
+  349  git status
+  350  git commit -m "second commit"
+  351  git pull FULL-STACK-DEVELOPMENT master
+  352  git push --set-upstream FULL-STACK-DEVELOPMENT master
+  353  git push -u--set-upstream FULL-STACK-DEVELOPMENT master
+  354  git --version
+  355  pwd
+  356  ls
+  357  ls -a
+  358  clear
+  359  cd Desktop/
+  360  cd..
+  361  cd ..
+  362  cd Desktop/
+  363  clear
+  364  mkdir full_stack
+  365  ls
+  366  cd full_stack/
+  367  touch fullstack.txt
+  368  ls
+  369  cat fullstack.txt
+  370  echo "full stack developer">fullstack.txt
+  371  cat fullstack.txt
+  372  echo "HTML and CSS">fullstack.txt
+  373  cat fullstack.txt
+  374  echo "Javascript">>fullstack.txt
+  375  cat fullstack.txt
+  376  clear
+  377  gedit fullstack.txt
+  378  nano fullstack.txt
+  379  cat fullstack.txt
+  380  nano data.txt
+  381  ls
+  382  rm data.txt
+  383  ls
+  384  mkdir Git
+  385  ls
+  386  git init
+  387  git status
+  388  git add fullstack.txt
+  389  git status
+  390  git commit -m"26-05-2020"
+  391  git config --global.user.email"likhitha.chowdary97@gmail.com"
+  392  git config --global user.email 'likhitha.chowdary97@gmail.com'
+  393  git config user.email
+  394  git config user.name
+  395  clear
+  396  nano fullstack.txt
+  397  git status
+  398  git add fullstack.txt
+  399  git commit -m"26-05-2020(2)"
+  400  git log
+  401  mkdir full-stack
+  402  ls
+  403  git remote -help
+  404  git remote add full-stack https://github.com/likhitha25/full-stack
+  405  git remote show
+  406  git remote -v
+  407  git pull full-stack master
+  408  git push -u full-stack
+  409  git push --set-upstream full-stack master
+  410  git push -f --set-upstream full-stack master
+  411  history
+  412  history 411>gitcommands.txt
+  413  git status
+  414  git add gitcommands.txt
+  415  git commit -m "Gitcommands"
+  416  git pull full-stack
+  417  git push -u full-stack
+  418  git push -f --set-upstream full-stack master
+  419  rm -f Gitcommands.txt
+  420  ls
+  421  history
+  422  history 421 > gitcommands.txt
+  423  ls
+  424  git status
+  425  git commit -m "Gitcommands"
+  426  git pull full-stack
+  427  git push -u full-stack 
+  428  git push -f --set-upstream full-stack master
+  429  rm -f gitcommands.txt
+  430  ls
+  431  clear
+  432  ls
+  433  ls -a
+  434  ls -a
+  435  git --version
+  436  pwd
+  437  ls
+  438  ls -a
+  439  cd Desktop/
+  440  mkdir FULL_STACK
+  441  ls
+  442  cd FULL_STACK
+  443  touch fullstack.txt
+  444  ls
+  445  cat fullstack.txt
+  446  echo fullstack.txt
+  447  echo "full stack developer" fullstack.txt
+  448  cat fullstack.txt
+  449  rm -f fullstack.txt
+  450  ls
+  451  touch fullstack.txt
+  452  ls
+  453  cat fullstack.txt
+  454  echo "full stack developer">fullstack.txt
+  455  cat fullstack.txt
+  456  echo "HTML and CSS">fullstack.txt
+  457  cat fullstack.txt
+  458  echo "full stack developer">>fullstack.txt
+  459  cat fullstack.txt
+  460  nano fullstack.txt
+  461  cat fullstack.txt
+  462  nano Data.txt
+  463  ls
+  464  nano data.txt
+  465  ls
+  466  rm -f data.txt
+  467  ls
+  468  clear
+  469  mkdir Git
+  470  git init
+  471  ls
+  472  git status
+  473  git add fullstack.txt
+  474  git status
+  475  git commit -m"first commit"
+  476  git --config global user.email 'likhitha.chowdary97@gmail.com'
+  477  git config user.email
+  478  git --config global user.name 'likhitha vasireddy'
+  479  git config user.name
+  480  nano fullstack.txt
+  481  git status
+  482  git add fullstack.txt
+  483  git commit -m"second commit"
+  484  git log
+  485  mkdir FULL-STACK
+  486  LS
+  487  ls
+  488  git remote add FULL-STACK 
+  489  CLEAR
+  490  git remote add FULL-STACK https://github.com/likhitha25/FULL-STACK
+  491  git remote show
+  492  git remote -v
+  493  git pull FULL-STACK master
+  494  git push -u FULL-STACK
+  495  git push --set-upstream FULL-STACK master
+  496  git push -f --set-upstream FULL-STACK master
+  497  history
+  498  history 497 > gitcommands.txt
