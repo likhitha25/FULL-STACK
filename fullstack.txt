@@ -1,3 +1,4 @@
+jQuery
 HTML5 and CSS3
 HTML and CSS
 full stack developer
