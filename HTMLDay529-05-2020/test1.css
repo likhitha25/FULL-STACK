@@ -1,0 +1,16 @@
+a{
+    color: darkblue;
+}
+a:link{
+     color: darkred;
+     text-align: center;
+}
+a:active{
+    color: darkolivegreen;
+}
+a:hover{
+    color: darkorange;
+    background-color: firebrick;
+    font-size: x-large;
+    text-decoration: underline;
+}

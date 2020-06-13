@@ -1,0 +1,31 @@
+.a1{
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 4px;
+    border-color: lawngreen;
+    margin: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    padding-left: 20px;
+    text-align: center;
+
+}
+.a2{
+    border-style: groove;
+    border-radius: 4px;
+    border-width: 3px;
+    border-color: lightcoral;
+    margin: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+.a3{
+    border-style: double;
+    border-radius: 4px;
+    border-width: 3px;
+    border-color: lightskyblue;
+    margin: 60px;
+    padding-right: 40px;
+    text-align: center;
+}
