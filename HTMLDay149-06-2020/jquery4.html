@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Introduction</title>
+        <script src="bootstrap-4.5.0-dist/bootstrap-4.5.0-dist/js/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+              $(document).ready(function(){
+                  $("#btnfadeIn").click(function(){
+                      $("#id1").fadeIn(1000)
+                  })
+                  $("#btnfadeOut").click(function(){
+                      $("#id1").fadeOut(2000)
+                  })
+                  $("#btnToggle").click(function(){
+                      $("#id1").fadeToggle(2000)
+                  })
+              })
+        </script>
+    </head>
+    <body>
+        <h1 id="id1">Dhyanahitha-DSPS</h1>
+        <button type="button" id="btnfadeIn">fadeIn</button>
+        <button type="button" id="btnfadeOut">fadeOut</button>
+        <button type="button" id="btnToggle">fadeToggle</button>
+    </body>
+</html>

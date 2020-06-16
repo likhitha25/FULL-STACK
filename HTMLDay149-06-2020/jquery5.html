@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Introduction</title>
+        <script src="bootstrap-4.5.0-dist/bootstrap-4.5.0-dist/js/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+              $(document).ready(function(){
+                  $("#btnslidedown").click(function(){
+                      $("#id1").slideUp()
+                  })
+                  $("#btnslideup").click(function(){
+                      $("#id1").slideDown()
+                  })
+                  $("btnslideToggle").click(function(){
+                      $("#id1").slideToggle(2000)
+                  })
+              })
+        </script>
+    </head>
+    <body>
+        <h1 id="id1">Dhyanahitha-DSPS</h1>
+        <h1 id="id2">Dhyanahitha-DSPS</h1>
+        <button type="button" id="btnslidedown">slidedown</button>
+        <button type="button" id="btnslideup">slideup</button>
+        <button type="button" id="btnslideToggle">slideToggle</button>
+    </body>
+</html>
