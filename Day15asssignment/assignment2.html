@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.js"></script>
+<script>
+$(document).ready(function(){
+  $("#one").click(function(){
+    $("#div1").fadeIn(1500);
+    $("#div2").fadeIn(2500);
+    $("#div3").fadeIn(4000);
+  });
+});
+$(document).ready(function(){
+  $("#two").click(function(){
+    $("#div1").fadeOut();
+    $("#div2").fadeOut();
+    $("#div3").fadeOut();
+  });
+});
+</script>
+</head>
+<body>
+<button id="one">start animate</button><br><br>
+<button id="two">stop animate</button><br><br>
+<div id="div1" style="width:80px;height:80px;display:none;background-color:red;"></div><br>
+<div id="div2" style="width:80px;height:80px;display:none;background-color:green;"></div><br>
+<div id="div3" style="width:80px;height:80px;display:none;background-color:blue;"></div>
+
+</body>
+</html>

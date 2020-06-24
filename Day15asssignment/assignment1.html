@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#button1").click(function(){
+    $("#box").animate({height: '+=150px',
+    width: '+=150px'});
+  });
+});
+$(document).ready(function(){
+  $("#button2").click(function(){
+    $("#box").animate({height: '150px',
+    width: '150px'});
+  });
+});
+</script> 
+</head>
+<body>
+
+<button id="button1">Animate height and width</button>
+<button id="button2">RESET</button>
+<div id="box" style="background:#98bf21;height:100px;width:100px;position:absolute;margin: 6px;"></div>
+
+</body>
+</html>
