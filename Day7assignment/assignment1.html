@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASSIGNMENT 1</title>
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=JvDCKNh7YD8p6zzkzRpYRuilH6sq4BOj9cSbSPkknyH3wv_TQHkhGGv7ZLMOix_WyudjGyPB8hmBvA3ES6mkMM0w4tQ-DQJR-7SdHKr74C2q9WTffCpLfphG7OhYQwk0mOSEvyc3FMosDoKGmKTk6RY0UmRwygNRBhr--Xf1xdBoVo_kToBV4naufdU-gIQzZaZ19q8dos5e-QOQmptl2Q" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9tb29kbGUuZHNwc2luc3RpdHV0ZS5jb20vcGx1Z2luZmlsZS5waHAvNDkwMC9hc3NpZ25zdWJtaXNzaW9uX2ZpbGUvc3VibWlzc2lvbl9maWxlcy8zMDgzL2Fzc2lnbm1lbnQxLmh0bWw_Zm9yY2Vkb3dubG9hZD0x"/><script src="java.js"></script>
+    <style>
+        p{
+            padding: 5px;
+        }
+        button{
+            align-content: center;
+        }
+        h3{
+            text-align:center;
+        }
+        hr{
+            height: 4px;
+            background-color: black;
+        }
+    </style>
+    <script>
+        function myValidate(){
+    var val1 = document.getElementById("Textusername").value;
+    var val2 = document.getElementById("Textpassword").value;
+    if (/^[A-Z][a-z0-9]{2,7}$/.test(val1) && /^[A-Z, -~]{8,20}$/.test(val2)) {
+            window.alert("Valid");
+    }
+    else{
+        window.alert("Enter valid credentials");
+    }
+}
+
+    </script>
+</head>
+<body>
+    <form style="border-style: solid;width: max-content;margin: auto;">
+        <h3>REGISTRATION FORM</h3><hr />
+       <p> USERNAME  :<input type="text" id="Textusername"></p><br />
+        <p>FULL NAME :<input type="text" ></p><br />
+        <p>DEPARTMENT:<input type="text"  placeholder="eg:-ECE"  ></p><br />
+        <p>ADDRESS   :<textarea rows="3" cols="20"></textarea></p><br />
+        <p>PASSWORD  :<input type="password" id="Textpassword"  ></p><br /><hr />
+        <button style="margin: 5px;" type="button" onclick="myValidate()">VALIDATE</button>
+    </form>
+</body>
+</html>
